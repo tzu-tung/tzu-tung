@@ -1,8 +1,7 @@
-###專長
-☁️ Python
+☁️ ML/AI 小白
+☁️ Excel 
 
-###經歷
 ☀️ 輔仁大學 學生
+☀️ 專案助理
 
-###信箱
-🪴a71337043@gmail.com
+<mail> a71337043@gmail.com
